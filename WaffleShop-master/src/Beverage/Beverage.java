@@ -5,3 +5,4 @@ public interface Beverage {
     public double cost();
     public void prepareBeverage();
 }
+

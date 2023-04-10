@@ -17,6 +17,7 @@ class AmazonAdapter implements ClientBrokerInterface {
 	public void stop(String id) {
 		adapteeProvider.stopVM(id);
 	}
+	
 
 	@Override
 	public void restart(String id) {

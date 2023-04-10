@@ -22,7 +22,6 @@ public class ClientFile {
 				partyHost = new WeekDayParyHost();
 			}
 
-			
 			System.out.println("How would you want to manage cooking of food  ");
 			System.out.println(" Press 1 for a visitor Veg Cook ");
 			System.out.println(" Press 2 for a visitor Non- Veg Cook  ");

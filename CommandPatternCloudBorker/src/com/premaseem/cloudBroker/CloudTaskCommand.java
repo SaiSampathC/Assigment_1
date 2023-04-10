@@ -22,6 +22,7 @@ class AddStorageTaskCommand implements CloudTaskCommand {
 		this.provider = provider;
 	}
 
+	
 	@Override
 	public void execute() {
 		provider.addStorage();
