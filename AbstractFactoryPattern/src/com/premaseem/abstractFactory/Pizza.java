@@ -6,6 +6,7 @@ public interface Pizza {
 	double getCost();
 }
 
+
 class VegPizza implements Pizza {
 	@Override
 	public void getDescription() {

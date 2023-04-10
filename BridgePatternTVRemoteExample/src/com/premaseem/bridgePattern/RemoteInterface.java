@@ -34,3 +34,4 @@ class RemoteInterfaceImpl implements RemoteInterface {
 	}
 
 }
+

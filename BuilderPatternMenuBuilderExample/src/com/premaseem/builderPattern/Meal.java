@@ -75,3 +75,4 @@ class Blood extends Drink {
 		this.name = "Blood";
 	}
 }
+

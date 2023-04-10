@@ -16,7 +16,7 @@ public class Artist {
 	public String getName() {
 		return this.name;
 	}
-	
+
 
 	public String getWebsite() {
 		return "https://some_artist_website";
